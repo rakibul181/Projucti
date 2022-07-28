@@ -1,3 +1,6 @@
 .img-overly{
     filter: brightness(0.4);
 }
+.font-size{
+    font-size: 12px;
+}
