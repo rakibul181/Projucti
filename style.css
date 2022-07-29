@@ -1,10 +1,19 @@
 .img-overly{
     filter: brightness(0.4);
 }
-.font-size{
+.carosul-img{
+    min-height: 350px;
+    min-width: auto;
+    object-fit: cover;
+}
+.font-size-12{
     font-size: 12px;
+}
+.font-size-14{
+    font-size: 14px;
 }
 .fotter-section{
     height: 300px;
     background: #000000;
 }
+
